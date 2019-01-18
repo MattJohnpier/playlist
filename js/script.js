@@ -2,9 +2,11 @@
 
 // BELOW Update the songs array with four of your favorites songs.
 var songs = ["alien boy","still feel","new girl","queen","conquest"];
+
 var songImg = ["https://bit.ly/2Cr2mB7","https://bit.ly/2stxueX","https://bit.ly/2FHGu89","https://bit.ly/2CobI0E","https://bit.ly/2W0oOua"];
-var songArtist = ["alienArt","StillArt","newArt","queenArt","conArt"];
-var songLength = ["alienTime","StillTime","newTime","queen"]
+var songArtist = ["Oliver Tree","half alive","FINNEAS","Queen","The White Stripes"];
+var songLength = ["2:44","4:15","2:59","4:23","3:47"]
+var songLink = ["","","","",""]
 // BELOW Add 4 More arrays to store images_links, artists, song lengths, and links for each song
 // Make sure they match the same order as your array above
 
